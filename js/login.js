@@ -9,8 +9,8 @@ document.getElementById('Submit-button').addEventListener('click',function(){
    if(email =="admin@gmail.com" && password == 123456){
     window.location.href = "./banking.html";
    }
-   
+
+
 
    
-    
 })
